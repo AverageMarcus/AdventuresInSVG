@@ -8,6 +8,8 @@ For a while now I've been a little fascinated with SVGs and the ability to anima
 
 I wanted to find out how semi-complex animations could be achieved and try and pick the "best" way of doing it. 
 
+I have split out the CSS and JS into the HTML page rather than within the SVG tag for better readability. 
+
 Here are my results so far...
 
 # Animating with JavaScript
